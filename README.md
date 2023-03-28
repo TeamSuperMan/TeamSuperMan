@@ -1,4 +1,4 @@
-# SUPERMAN
+<center> <h1>SUPERMAN</h1> </center>
 
 Proyecto Front-end Responsive con información de Superman, incluye barra de navegacion, Banner, Historia del personaje, Login y informacion de los participantes.
 
